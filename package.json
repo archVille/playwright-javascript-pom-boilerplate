@@ -1,0 +1,13 @@
+{
+  "name": "playwright-javascript-pom-boilerplate",
+  "version": "1.0.0",
+  "description": "Created a boilerplate for POM example using 'https://opensource-demo.orangehrmlive.com'",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
