@@ -9,8 +9,19 @@ npm install
 
 # Running tests
 
+## Run E2E tests 
 ```
 npx playwright test
+```
+
+## Run interactive UI mode
+```
+npx playwright test --ui
+```
+
+## Run debug mode
+```
+npx playwright test --debug
 ```
 
 # Adiing other workers(browsers)
