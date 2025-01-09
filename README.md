@@ -41,3 +41,11 @@ Uncomment this lines in playwright.config.js
 ```
 
 
+
+# If you want to set up a new playwright project 
+```
+npm init playwright@latest
+```
+
+
+
