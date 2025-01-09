@@ -1,7 +1,7 @@
 import { test } from '@playwright/test';
 import {LoginPage} from '../tests/login'
 
-test('test', async ({ page }) => {
+test('Login page test', async ({ page }) => {
 
   const  Login = new LoginPage(page)
 
