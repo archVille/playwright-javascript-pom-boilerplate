@@ -49,3 +49,11 @@ npm init playwright@latest
 
 
 
+## Pipeline
+
+
+Created a new release pipeline in folder
+
+> .gtihub/workflows
+
+Inside playwright.yml
